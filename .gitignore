@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+baseline_integridade.json
+*.baseline.json
